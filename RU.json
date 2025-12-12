@@ -1,6 +1,6 @@
 {
     "name": "Русский",
-    "description": "Русский перевод для <color=\"green\">5 версии 5 претеста</color>.\nСделан жуком.\nРепозиторий перевода:\n<color=\"blue\">https://github.com/Jyk9275/scavgame-locale-ru</color>",
+    "description": "<size=35%><pos=0em><voffset=2em><mark=#ffffffff><alpha=#00>######<alpha=#ff></mark></voffset></pos> <pos=0em><voffset=1em><mark=#0000ffff><alpha=#00>######<alpha=#ff></mark></voffset></pos> <pos=0em><voffset=0em><mark=#ff0000ff><alpha=#00>######<alpha=#ff></mark></voffset></pos></size>Русский перевод от <color=#f6ff73>12.12.2025</color>\nдля <color=#83ff6b>5 версии 5 претеста</color>.\n<sprite index=18>Сделан жуком.\n<sprite index=3>Репозиторий перевода:\n<sprite index=20><color=#91d1ff>https://github.com/Jyk9275/scavgame-locale-ru</color>",
     "main": {
         "bandage": "Бинт",
         "bandagedsc": "Рулон перевязочной ткани, используемый для замедления кровотечения, стабилизации переломов и заживления кожи. Не влияет на здоровье мышц.",
